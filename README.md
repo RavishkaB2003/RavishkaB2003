@@ -1,12 +1,14 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Welcome to the Official Domain of Ravishka Bandara</h1>
 <h3 align="center">🚀 Software Engineering Undergraduate | Web & AI Enthusiast | Obsessed with Design & Development 🎨💻</h3>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=RavishkaB2003&theme=onedark&row=1&column=6" alt="RavishkaB2003 trophies"/></p>
+
+
 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravishkab2003&label=Profile%20views&color=0e75b6&style=flat" alt="ravishkab2003" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravishkab2003" alt="ravishkab2003" /></a> </p><br>
 
 
 
