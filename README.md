@@ -17,8 +17,8 @@
   <!-- Left Text -->
   <div style="flex: 1; padding-right: 20px;">
     <ul style="margin: 0; padding: 0; list-style: none;">
-      <li>🔭 I’m currently working on <b>Image Generation Using Flux Dev</b></li>
-      <li>🌱 I’m currently learning <b>C C# PYTHON JAVA REACT TAILWIND WEBGL HTML CSS JS PHP</b></li>
+      <li>🔭 I’m currently working on <b>SpringBoot Java Application Development And Mobile Application Development</b></li>
+      <li>🌱 I’m currently learning To Be A Fullstack Developer</b></li>
       <li>👨‍💻 All of my projects are available at (Under Development)</li>
       <li>💬 Ask me about <b>Web, AI, and DSA</b></li>
       <li>📫 You can reach me <b>ravishkabandarasct123@gmail.com</b></li>
