@@ -7,7 +7,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravishkab2003&label=Profile%20views&color=0e75b6&style=flat" alt="ravishkab2003" /> </p>
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?ravishkab2003)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 
 
