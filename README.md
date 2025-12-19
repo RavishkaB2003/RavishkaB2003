@@ -23,7 +23,7 @@
 
  
 
-
+<p align= "center"><img alig src="https://github-trophies.vercel.app/?username=ravishkab2003&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" /></p>
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></center>
 <br><br>
@@ -45,7 +45,7 @@
 <img height="200"  align="center" src="https://github.com/user-attachments/assets/00bf1c96-b262-4376-90c2-bae2a708b5c4" alt="Random GIF">
 </p>
  
-<p align= "center"><img alig src="https://github-trophies.vercel.app/?username=ravishkab2003&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" /></p>
+
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravishkab2003&show_icons=true&locale=en&layout=compact" alt="ravishkab2003" /></p>
 
