@@ -45,9 +45,7 @@
 <img height="200"  align="center" src="https://github.com/user-attachments/assets/00bf1c96-b262-4376-90c2-bae2a708b5c4" alt="Random GIF">
 </p>
  
-<p align="center">
-  <img alig src="https://github-trophies.vercel.app/?username=ravishkab2003&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+<p align= "center"><img alig src="https://github-trophies.vercel.app/?username=ravishkab2003&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravishkab2003&show_icons=true&locale=en&layout=compact" alt="ravishkab2003" /></p>
 
