@@ -51,5 +51,4 @@
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravishkab2003&show_icons=true&locale=en" alt="ravishkab2003" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishkab2003&" alt="ravishkab2003" /></p>
 
