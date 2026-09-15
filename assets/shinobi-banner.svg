@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Shinobi developer banner</title>
+  <desc id="desc">An original dark anime-inspired developer banner with a moon, mountain silhouettes, chakra-like rings and terminal motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070a12"/>
+      <stop offset="0.55" stop-color="#101827"/>
+      <stop offset="1" stop-color="#16100d"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fff8dc"/>
+      <stop offset="0.78" stop-color="#e8c37d"/>
+      <stop offset="1" stop-color="#9d6b39" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="26" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="26" fill="url(#grid)"/>
+
+  <circle cx="970" cy="150" r="112" fill="url(#moon)" opacity=".78"/>
+  <circle cx="970" cy="150" r="90" fill="none" stroke="#e8c37d" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="970" cy="150" r="64" fill="none" stroke="#7eb8ff" stroke-opacity=".28" stroke-width="2"/>
+
+  <g opacity=".22" stroke="#7eb8ff" fill="none">
+    <circle cx="970" cy="150" r="136" stroke-width="1"/>
+    <circle cx="970" cy="150" r="153" stroke-width="1" stroke-dasharray="5 11"/>
+    <path d="M820 150h300M970 0v300"/>
+  </g>
+
+  <path d="M0 322L140 240l86 49 104-96 116 87 80-58 96 50 120-79 130 99 98-58 110 92v94H0z" fill="#080b12"/>
+  <path d="M0 350L150 280l96 36 112-74 92 70 120-64 104 48 130-91 110 94 98-55 162 81v95H0z" fill="#05070c"/>
+
+  <g transform="translate(92 78)">
+    <rect width="470" height="120" rx="18" fill="#070b13" fill-opacity=".78" stroke="#7eb8ff" stroke-opacity=".35"/>
+    <text x="28" y="40" fill="#e8c37d" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="4">SHINOBI PROFILE // 001</text>
+    <text x="28" y="78" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">RAVISHKA</text>
+    <text x="30" y="103" fill="#9cb3cc" font-family="monospace" font-size="15">backend • full-stack • ai applications</text>
+  </g>
+
+  <g transform="translate(98 258)" fill="none" stroke="#e8c37d" stroke-opacity=".65">
+    <path d="M0 0h240" stroke-width="2"/>
+    <path d="M0 11h112" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(1080 292)" filter="url(#glow)">
+    <circle cx="0" cy="0" r="38" fill="none" stroke="#ff8b3d" stroke-width="3" stroke-opacity=".82"/>
+    <circle cx="0" cy="0" r="24" fill="none" stroke="#7eb8ff" stroke-width="2" stroke-opacity=".85"/>
+    <path d="M-12 0h24M0-12v24" stroke="#ffffff" stroke-opacity=".75"/>
+  </g>
+
+  <text x="104" y="322" fill="#ffffff" font-family="monospace" font-size="17" opacity=".78">$ build systems</text>
+  <text x="104" y="348" fill="#7eb8ff" font-family="monospace" font-size="17" opacity=".78">$ debug • learn • ship</text>
+  <text x="104" y="374" fill="#e8c37d" font-family="monospace" font-size="17" opacity=".86">// one more episode...</text>
+
+  <rect x="1" y="1" width="1278" height="418" rx="26" fill="none" stroke="#ffffff" stroke-opacity=".09"/>
+</svg>
