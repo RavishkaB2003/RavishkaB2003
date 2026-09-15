@@ -1,24 +1,150 @@
-# 💫 About Me:
-🚀 Software Engineering Undergraduate | Web & AI Enthusiast | Obsessed with Design & Development 🎨💻<br>🔭 I’m currently working on SpringBoot Java Application Development And Mobile Application Development<br>🌱 I’m currently learning To Be A Fullstack Developer<br>👨‍💻 All of my projects are available at (Under Development)<br>💬 Ask me about Web, AI, and DSA<br>📫 You can reach me ravishkabandarasct123@gmail.com<br>📄 My Side Hustle Raaviya Design<br>⚡ Fun fact I juggle web design, AI, and software development—but somehow, debugging a tiny error feels like the biggest challenge. 😆💻
+<div align="center">
 
+<img src="assets/shinobi-banner.svg" alt="Original shinobi developer banner" width="100%" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RavishkaB2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RavishkaB2003&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RavishkaB2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Weeb Software Engineer ⚡
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RavishkaB2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Building systems by day · watching anime by night
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/RavishkaB2003)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RavishkaB2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RavishkaB2003&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌀 Shinobi Profile
+
+> Software Engineering Undergraduate focused on **backend and full-stack development**.
+
+I build web applications and backend systems with a focus on **Java/Spring Boot, React/TypeScript and Node.js**, while exploring AI-integrated applications and modern developer tooling.
+
+```text
+CLASS        Backend / Full-Stack Engineer
+CORE         Java · Spring Boot · React · TypeScript · Node.js
+DATA         MySQL · MongoDB
+INTERESTS    System Design · AI Applications · Developer Tools
+SIDE QUEST   Anime · UI Design · Building things that look good
+```
+
+## ⚔️ Current Arc
+
+| | Mission |
+|---|---|
+| 🔨 **Building** | Animeta · Spring Boot systems · AI / MCP applications |
+| 📚 **Training** | Automated testing · Docker · CI/CD · AWS · System Design |
+| 🎯 **Objective** | Become a backend-focused full-stack engineer and build production-quality systems |
+
+## 🏯 Featured Missions
+
+### 🌀 Animeta
+**Anime discovery & tracking platform**
+
+`React` `TypeScript` `Tailwind` `AniList GraphQL` `Appwrite`
+
+- External GraphQL API integration
+- Debounced search and API-conscious client behavior
+- Search/trending analytics persistence
+- Responsive cinematic UI and client-side routing
+
+[→ View repository](https://github.com/RavishkaB2003/Animeta)
+
+### ⚔️ Integrated Inventory Management System
+**Backend-focused inventory management system**
+
+`Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `MySQL` `JWT`
+
+- Role-based access control
+- Stateless JWT authentication
+- DTO-based API design
+- Global exception handling and audit-oriented architecture
+- Inventory, sales, warehouse and procurement domains
+
+[→ View repository](https://github.com/RavishkaB2003/Java-IMR-SpringBoot)
+
+### ⚡ Kapruka Conversational Gifting Concierge
+**AI-powered conversational commerce experience**
+
+`Next.js` `TypeScript` `Gemini` `MCP` `GSAP` `Framer Motion`
+
+- Conversational product discovery
+- MCP integration with external commerce capabilities
+- Dynamic product and checkout workflows
+- Sinhala / Tanglish / English conversational UX
+
+[→ View repository](https://github.com/RavishkaB2003/kapruka-mcp-challenge)
+
+## 🧩 Technique Tree
+
+### 🥷 Core
+
+`Java` `Spring Boot` `React` `TypeScript` `Node.js` `Express.js` `MySQL` `MongoDB`
+
+### ⚙️ Working With
+
+`Next.js` `JavaScript` `Tailwind CSS` `Flutter` `Dart` `Appwrite` `Spring Security` `JPA/Hibernate` `Git` `Postman`
+
+### 🧪 Exploring
+
+`AI / LLM Applications` `MCP` `Docker` `AWS` `Redis` `System Design`
+
+## 📊 Shinobi Analytics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
+  <img alt="GitHub overview statistics" src="./assets/profile-cards/overview.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/contributions.dark.svg" />
+  <img alt="GitHub contribution history and streaks" src="./assets/profile-cards/contributions.light.svg" width="100%" />
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/repositories.dark.svg" />
+    <img alt="Repository activity ranking" src="./assets/profile-cards/repositories.light.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/languages.dark.svg" />
+    <img alt="Language composition" src="./assets/profile-cards/languages.light.svg" width="49%" />
+  </picture>
+</p>
+
+> **Note:** These cards are generated from GitHub activity. The anime terminology is just the theme — the numbers are real activity, not a measure of engineering skill.
+
+## 🌀 Chakra Flow
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chakra-flow-dark.svg" />
+  <img alt="GitHub contribution graph" src="./assets/chakra-flow.svg" width="100%" />
+</picture>
+
+## 🏆 Shinobi Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RavishkaB2003&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Selected GitHub achievements" width="100%" />
+</p>
+
+## 🍥 Weeb Corner
+
+```text
+NARUTO        → Favorite universe
+HIDDEN LEAF   → Shinobi affiliation
+SIDE QUEST    → "one more episode"
+```
+
+> 🌀 *The goal isn't to know every technology. It's to master the ones that let me build better systems.*
+
+## 📫 Connect
+
+<div align="center">
+
+**Open to software engineering internships, graduate opportunities and interesting projects.**
+
+[GitHub](https://github.com/RavishkaB2003)
+
+</div>
+
+---
+
+<sub>Built with Markdown, GitHub Actions, a little chakra, and probably too much anime.</sub>

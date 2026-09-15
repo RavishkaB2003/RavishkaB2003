@@ -1,0 +1,35 @@
+name: Update Profile Analytics
+
+on:
+  push:
+    branches:
+      - main
+      - profile-readme-redesign
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-analytics
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: RavishkaB2003
+          output-dir: assets/profile-cards
+          themes: light,dark
+          cards: overview,contributions,repositories,languages
+          commit: true
+          commit-message: "chore(profile): refresh analytics cards [skip ci]"
