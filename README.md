@@ -7,8 +7,6 @@
 ### Building systems by day · watching anime by night
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/RavishkaB2003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://github.com/RavishkaB2003)
 
 </div>
 
@@ -112,7 +110,7 @@ SIDE QUEST   Anime · UI Design · Building things that look good
 ## 🌀 Chakra Flow
 
 <p align="center">
-  <img src="assets/chakra-flow.svg" alt="Animated GitHub contribution graph" width="100%" />
+  <img src="assets/chakra-flow.svg" alt="GitHub contribution graph" width="100%" />
 </p>
 
 ## 🏆 Shinobi Achievements
@@ -145,7 +143,7 @@ SIDE QUEST   Anime · UI Design · Building things that look good
 
 **Open to software engineering internships, graduate opportunities and interesting projects.**
 
-[GitHub](https://github.com/RavishkaB2003) · [LinkedIn](https://www.linkedin.com/) · [Portfolio](https://github.com/RavishkaB2003)
+[GitHub](https://github.com/RavishkaB2003)
 
 </div>
 
