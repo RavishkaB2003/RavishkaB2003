@@ -49,7 +49,7 @@ SIDE QUEST   Anime · UI Design · Building things that look good
 [→ View repository](https://github.com/RavishkaB2003/Animeta)
 
 ### ⚔️ Integrated Inventory Management System
-**Enterprise-style Spring Boot backend**
+**Backend-focused inventory management system**
 
 `Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `MySQL` `JWT`
 
@@ -89,29 +89,35 @@ SIDE QUEST   Anime · UI Design · Building things that look good
 
 ## 📊 Shinobi Analytics
 
-<p align="center">
-  <img src="assets/profile-cards/overview.dark.svg" alt="GitHub overview statistics" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
+  <img alt="GitHub overview statistics" src="./assets/profile-cards/overview.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/contributions.dark.svg" />
+  <img alt="GitHub contribution history and streaks" src="./assets/profile-cards/contributions.light.svg" width="100%" />
+</picture>
 
 <p align="center">
-  <img src="assets/profile-cards/contributions.dark.svg" alt="GitHub contribution history and streaks" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/profile-cards/repositories.dark.svg" alt="Repository activity ranking" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/profile-cards/languages.dark.svg" alt="Language composition" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/repositories.dark.svg" />
+    <img alt="Repository activity ranking" src="./assets/profile-cards/repositories.light.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/languages.dark.svg" />
+    <img alt="Language composition" src="./assets/profile-cards/languages.light.svg" width="49%" />
+  </picture>
 </p>
 
 > **Note:** These cards are generated from GitHub activity. The anime terminology is just the theme — the numbers are real activity, not a measure of engineering skill.
 
 ## 🌀 Chakra Flow
 
-<p align="center">
-  <img src="assets/chakra-flow.svg" alt="GitHub contribution graph" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chakra-flow-dark.svg" />
+  <img alt="GitHub contribution graph" src="./assets/chakra-flow.svg" width="100%" />
+</picture>
 
 ## 🏆 Shinobi Achievements
 
@@ -122,17 +128,9 @@ SIDE QUEST   Anime · UI Design · Building things that look good
 ## 🍥 Weeb Corner
 
 ```text
-╭────────────────────────────────────────────────────╮
-│                 WEEB PROFILE // 404               │
-│                                                    │
-│  Favorite Universe   Naruto                       │
-│  Shinobi Affiliation Hidden Leaf Village          │
-│  Current Status     Training Arc                  │
-│                                                    │
-│  Productivity loop:                                │
-│  Code → Debug → Anime → "one more episode"       │
-│  → Realize it's 3 AM → Code again                 │
-╰────────────────────────────────────────────────────╯
+NARUTO        → Favorite universe
+HIDDEN LEAF   → Shinobi affiliation
+SIDE QUEST    → "one more episode"
 ```
 
 > 🌀 *The goal isn't to know every technology. It's to master the ones that let me build better systems.*
