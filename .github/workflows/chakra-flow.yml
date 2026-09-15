@@ -1,6 +1,10 @@
 name: Update Chakra Flow
 
 on:
+  push:
+    branches:
+      - main
+      - profile-readme-redesign
   schedule:
     - cron: "27 3 * * *"
   workflow_dispatch:
@@ -16,12 +20,17 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate Chakra Flow
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: RavishkaB2003
           outputs: |
-            assets/chakra-flow.svg?palette=github-dark
+            assets/chakra-flow.svg?palette=github-light
             assets/chakra-flow-dark.svg?palette=github-dark
+
       - name: Commit generated flow
         uses: EndBug/add-and-commit@v9
         with:
