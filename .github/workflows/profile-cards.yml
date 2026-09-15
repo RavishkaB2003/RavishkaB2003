@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate profile cards
-        uses: seijikohara/profile-cards-action@main
+        uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: RavishkaB2003
