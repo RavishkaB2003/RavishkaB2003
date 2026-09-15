@@ -1,6 +1,10 @@
 name: Update Profile Analytics
 
 on:
+  push:
+    branches:
+      - main
+      - profile-readme-redesign
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
